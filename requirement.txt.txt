@@ -1,0 +1,7 @@
+pip install calcDiameter
+pip install pandas
+pip install pdb
+pip install glob
+
+
+run  python 3.8.7
